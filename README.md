@@ -3,4 +3,4 @@ Using a looped code to run Linear Regression, Lasso Regression, Ridge Regression
 
 
 ## Results
-![](https://github.umn.edu/MITTA098/Looped-Predictive-Modeling-Advance/blob/master/Result_ML_Adv.png)
+![](https://github.com/AnirudhMittal4/Looped-Predictive-Modeling-Advance/blob/master/Result_ML_Adv.png)
